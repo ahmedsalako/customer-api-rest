@@ -29,6 +29,10 @@ x-ibm-configuration:
           title: gatewayscript
           version: 1.0.0
           source: //
+      - gatewayscript:
+          title: gatewayscript
+          version: 1.0.0
+          source: //
     catch: []
   gateway: datapower-gateway
 paths:
